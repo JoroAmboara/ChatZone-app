@@ -2,7 +2,7 @@
 To test the app, you need to clone this repo to test the app :
 
 ```sh
-git clone https://github.com/Sanmandresy/Instant-Chat-App.git
+git clone https://github.com/JoroAmboara/ChatZone-app.git
 ```
 
 ## How to run it
